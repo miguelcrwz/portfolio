@@ -84,9 +84,9 @@
   * {
     @apply border-border;
 
-  html {
-    @apply scroll-smooth;
-  }
+    html {
+      @apply scroll-smooth;
+    }
   }
 }
 
