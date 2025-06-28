@@ -20,7 +20,7 @@ export const HeroSection = () => {
             </span>
           </h1>
           <p className="text-lg md:text-xl text-muted-foreground max-2-2xl mx-auto opacity-0 animate-fade-in-delay-3">
-            I enjoy creating backend systems that are efficient and reliable.
+            I enjoy creating back-end systems that are efficient and reliable.
             Focused on back-end development, I’m always learning and improving
             with every project I build.
           </p>
